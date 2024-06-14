@@ -1,0 +1,1 @@
+This is my first time using git and exploring how to modify add and commit and seeing the differences between the two
